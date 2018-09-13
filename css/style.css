@@ -1,0 +1,71 @@
+body{
+width: 409px;
+height: 500px;
+background-color: #ffffff;
+border: 1px solid ;
+font-family: roboto;
+margin: 0 auto;
+ 
+}
+.derecha{
+  float: right;
+}
+
+.login form{
+ 
+  background-color: #FFFFFF;
+}
+
+.form-container {
+  margin-bottom: 20px;
+  text-align: left;
+ 
+}
+
+.btn-menu{
+  width: 64px;
+  height: 58px;
+  background-color: #cc3438;
+  color: white;
+  
+}
+.btn{
+  border: none;
+  background-color: #e61c1c;
+  width: 64px;
+  height: 58px;
+  background-color: #f43f44;
+ 
+}
+.texto{
+   margin-right: 50px;
+  
+}
+
+.row{
+  padding-left: 0px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  text-align: left;
+  
+}
+.barra{
+  color: white;
+  background-color: #908E8E;
+  width: 409px;
+  height: 40px;
+  background-color: #f43f44;
+  text-align: left;
+
+}
+.tamano{
+  font-size: 30px;
+  
+}
+
+.barra2{
+  padding-top: 35px;
+  padding-left: 35px;
+  
+}
+
